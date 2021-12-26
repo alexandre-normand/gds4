@@ -6,8 +6,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/darkautism/gds4"
-	"github.com/darkautism/gds4/bluetooth"
+	"github.com/alexandre-normand/gds4"
+	"github.com/alexandre-normand/gds4/bluetooth"
 )
 
 func main() {

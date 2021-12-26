@@ -1,6 +1,6 @@
-module github.com/darkautism/gds4
+module github.com/alexandre-normand/gds4
 
-go 1.13
+go 1.16
 
 require (
 	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07

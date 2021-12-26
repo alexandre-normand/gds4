@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/darkautism/gds4"
+	"github.com/alexandre-normand/gds4"
 	"github.com/tarm/serial"
 )
 
